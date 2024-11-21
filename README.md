@@ -1,0 +1,2 @@
+# Dynamic-Blogs-pages
+blogs
